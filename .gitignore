@@ -24,10 +24,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Results and logs
-results.txt
-*.log
-*.csv
 
 # Hugging Face cache
 .cache/

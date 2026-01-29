@@ -1,0 +1,24 @@
+
+Poisoned
+CACC (Clean Accuracy): 0.9288990825688074
+ASR (Attack Success Rate): 1.0
+
+Merged
+CACC (Clean Accuracy): 0.930045871559633
+ASR (Attack Success Rate): 0.38963963963963966
+
+Poisoned
+CACC (Clean Accuracy): 0.9288990825688074
+ASR (Attack Success Rate): 1.0
+
+Merged
+CACC (Clean Accuracy): 0.9288990825688074
+ASR (Attack Success Rate): 0.38288288288288286
+
+Poisoned
+CACC (Clean Accuracy): 0.9288990825688074
+ASR (Attack Success Rate): 1.0
+
+Merged
+CACC (Clean Accuracy): 0.930045871559633
+ASR (Attack Success Rate): 0.29954954954954954
