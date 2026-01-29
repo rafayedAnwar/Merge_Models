@@ -1,0 +1,34 @@
+# Model files (large binary files)
+*.safetensors
+models/
+
+# Data files (large datasets)
+#data/
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Results and logs
+results.txt
+*.log
+*.csv
+
+# Hugging Face cache
+.cache/
+huggingface/
